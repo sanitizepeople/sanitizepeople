@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/sanitizepeople/<OWNER>/<OWNER>/readme_header.png "Header")](https://https://sanitizepeople.github.io/portfolio//)
+[![Header](https://raw.githubusercontent.com/sanitizepeople/<OWNER>/<OWNER>/readme_header.png "Header")](https://https://sanitizepeople.github.io/portfolio/)
 
 <!--
 **sanitizepeople/sanitizepeople** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
